@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NavApp3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_source_template">The navigation source is %1$s</string>
+</resources>
